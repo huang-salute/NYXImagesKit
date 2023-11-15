@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name     = 'NYXImagesKit'
-  s.version  = '2.4'
+  s.version  = '2.8'
   s.platform = :ios
   s.license  = 'Simplified BSD license'
   s.summary  = 'A set of efficient categories for UIImage class. It allows filtering, resizing, masking, rotating, enhancing... and more.'
